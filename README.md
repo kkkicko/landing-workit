@@ -1,6 +1,6 @@
 # Landing Page for Workit
 
-**An optimized one-page site that was developed based on a mobile-first approach**
+**An optimized one-page site that was developed based on a mobile-first approach.**
 
 ## Technologies and approaches
 * HTML
